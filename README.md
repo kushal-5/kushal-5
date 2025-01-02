@@ -1,18 +1,18 @@
 ![logo](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
 <h1 align="center">Hi 👋, I'm Kushal Shrestha</h1>
 <h3 align="center">"Future Full-Stack Developer | Turning Ideas into Reality"</h3>
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/fb/c6/f3/fbc6f31bd3b84159470b973aca7e0f97.gif">
+<img align="right" alt="Coding" width="390" src="https://i.pinimg.com/originals/fb/c6/f3/fbc6f31bd3b84159470b973aca7e0f97.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kushal-5&label=Profile%20views&color=0e75b6&style=flat" alt="kushal-5" /> </p>
 
 - 🔭 I’m currently working on **TMS Project**
 
-- 🌱 I’m currently learning **Three.js React**
+- 🌱 I’m currently learning **Three.js React.js**
 
-- 💬 Ask me about **Node Javascript**
+- 💬 Ask me about **Node,Javascript**
 
 - 📫 How to reach me **shresthakushal850@gmail.com**
 
-- ⚡ Fun fact **Lil bit funny 👌**
+- ⚡ Fun fact **Dark mode saves my eyes and my soul 🌑** 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
